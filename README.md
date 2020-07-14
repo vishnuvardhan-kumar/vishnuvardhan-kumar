@@ -1,16 +1,19 @@
-### Hi there 👋
+# Vishnuvardhan S
 
-<!--
-**vishnuvardhan-kumar/vishnuvardhan-kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-@vishnuvardhan--kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishnuvardhan-kumar/)](https://www.linkedin.com/in/vishnuvardhan-kumar/) 
+[![Gmail Badge](https://img.shields.io/badge/-vishnukumar1997@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vishnukumar1997@gmail.com)](mailto:vishnukumar1997@gmail.com)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=vishnuvardhan-kumar.vishnuvardhan-kumar)
+---
+      
+## About
+- 💼 Currently working at Amadeus Labs as a DevOps Engineer
+- 💻 I contribute to open-source projects, participate in CTFs and bug-bounty programs.
+- 🚀 Looking to move into SecOps / Cybersecurity, working on my OSCP certification.
 
-Here are some ideas to get you started:
+## Tech Stack
+- **Web Development:** Python + Flask/Django
+- **Scripting:** Python, Bash, PowerShell
+- **DevOps:** Git, Ansible, Jenkins, Terraform, Docker, Kubernetes, AWS and OpenShift
+- **OS Administration:** Windows Server 2012,2016,2019 / Active Directory / Red-Hat Linux 7,8
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
