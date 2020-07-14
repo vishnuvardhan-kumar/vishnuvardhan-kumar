@@ -20,5 +20,5 @@
 - I maintain a private cloud homelab hosted in AWS. Its accessible securely from anywhere on the internet and hosts some of the tools/services that
 I use often.
 
-![homelab.png](homelab.JPG)
+![Network Diagram](https://raw.githubusercontent.com/vishnuvardhan-kumar/vishnuvardhan-kumar/master/homelab.JPG)
 
