@@ -16,4 +16,9 @@
 - **DevOps:** Git, Ansible, Jenkins, Terraform, Docker, Kubernetes, AWS and OpenShift
 - **OS Administration:** Windows Server 2012,2016,2019 / Active Directory / Red-Hat Linux 7,8
 
----
+## My Virtual Homelab
+- I maintain a private cloud homelab hosted in AWS. Its accessible securely from anywhere on the internet and hosts some of the tools/services that
+I use often.
+
+![homelab.png](homelab.JPG)
+
