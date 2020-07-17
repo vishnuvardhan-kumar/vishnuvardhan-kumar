@@ -6,7 +6,7 @@
 ---
       
 ## About
-- 💼 Currently working at Amadeus Labs as a DevOps Engineer
+- 💼 Currently working at Amadeus Labs as a Site Reliability Engineer
 - 💻 I contribute to open-source projects, participate in CTFs and bug-bounty programs.
 - 🚀 Looking to move into SecOps / Cybersecurity, working on my OSCP certification.
 
