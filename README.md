@@ -8,7 +8,7 @@
 ## About
 - 💼 Currently working at Amadeus Labs as a Site Reliability Engineer
 - 💻 I contribute to open-source projects, participate in CTFs and bug-bounty programs.
-- 🚀 Looking to move into SecOps / Cybersecurity, working on my OSCP certification.
+- 🚀 Looking to move into SecOps / Cybersecurity, working on my OSCP certification. Open to new oppurtunities!
 
 ## Tech Stack
 - **Web Development:** Python + Flask/Django
@@ -16,5 +16,4 @@
 - **DevOps:** Git, Ansible, Jenkins, Terraform, Docker, Kubernetes, AWS and OpenShift
 - **OS Administration:** Windows Server 2012,2016,2019 / Active Directory / Red-Hat Linux 7,8
 
-## Virtual Homelab
 Take a look at my virtual homelab setup on AWS here: [CloudLab](https://github.com/vishnuvardhan-kumar/cloudlab)
