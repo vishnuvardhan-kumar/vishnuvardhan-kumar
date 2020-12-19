@@ -7,7 +7,7 @@
 ## About
 - 💼 Currently working at CRED as a Site Reliability Engineer
 - 💻 I contribute to open-source projects, participate in CTFs and bug-bounty programs.
-- 🚀 Looking to move into SecOps / Cybersecurity, studying for my OSCP certification.
+- 🚀 I have a keen interest in SecOps / Cybersecurity, also studying for my OSCP certification.
 
 ## Tech Stack
 - **Web Development:** Python + Flask/Django
