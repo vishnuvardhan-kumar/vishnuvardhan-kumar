@@ -6,8 +6,8 @@
 
       
 ## About
-- 💼 Currently working at CRED as a Site Reliability Engineer
+- 💼 Currently working at CRED as a Security SRE
 - 💻 I contribute to open-source projects, participate in CTFs and bug-bounty programs.
-- 🚀 I have a keen interest in SecOps / Cybersecurity
+- 🚀 I have a keen interest in Cloud and Infrastructure Security
 
 Take a look at my virtual homelab setup on AWS here: [CloudLab](https://github.com/vishnuvardhan-kumar/cloudlab)
